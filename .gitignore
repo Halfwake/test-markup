@@ -1,3 +1,5 @@
 *.bak
 static
 compiled
+*.swp
+*~
